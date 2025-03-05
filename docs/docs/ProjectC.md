@@ -74,10 +74,10 @@ Project C 只是起点，未来将由你定义！ 🚀
 - **官方文档**: [比特币白皮书](https://bitcoin.org/bitcoin.pdf) - 了解比特币的设计理念
 - **视频：**[Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) - 简化的加密货币教学
 
-### 4. 实践项目
+### 3. 实践项目
 
 1. **创建和管理加密钱包**
-    - OKX 钱包  / Metamask / ...
+    - OKX 钱包  / [Metamask](https://metamask.io/) / ...
     - 学习私钥管理和安全
     - 在测试网络获取测试代币
 2. **体验基本的区块链交互**
@@ -98,7 +98,7 @@ Project C 只是起点，未来将由你定义！ 🚀
 
 #### Solana
 
-- Solana 官方文档
+- [Solana 官方文档](https://solana.com/zh/docs)
 
 ### 2. DeFi协议解析
 
